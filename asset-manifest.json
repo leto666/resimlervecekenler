@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/resimlervecekenler/static/css/main.a96784ca.chunk.css",
+    "main.js": "/resimlervecekenler/static/js/main.76c9c5e2.chunk.js",
+    "main.js.map": "/resimlervecekenler/static/js/main.76c9c5e2.chunk.js.map",
+    "runtime-main.js": "/resimlervecekenler/static/js/runtime-main.170b0014.js",
+    "runtime-main.js.map": "/resimlervecekenler/static/js/runtime-main.170b0014.js.map",
+    "static/js/2.7aaef059.chunk.js": "/resimlervecekenler/static/js/2.7aaef059.chunk.js",
+    "static/js/2.7aaef059.chunk.js.map": "/resimlervecekenler/static/js/2.7aaef059.chunk.js.map",
+    "index.html": "/resimlervecekenler/index.html",
+    "precache-manifest.7015ad0f406973c6029567f893c77451.js": "/resimlervecekenler/precache-manifest.7015ad0f406973c6029567f893c77451.js",
+    "service-worker.js": "/resimlervecekenler/service-worker.js",
+    "static/css/main.a96784ca.chunk.css.map": "/resimlervecekenler/static/css/main.a96784ca.chunk.css.map",
+    "static/js/2.7aaef059.chunk.js.LICENSE.txt": "/resimlervecekenler/static/js/2.7aaef059.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.170b0014.js",
+    "static/js/2.7aaef059.chunk.js",
+    "static/css/main.a96784ca.chunk.css",
+    "static/js/main.76c9c5e2.chunk.js"
+  ]
+}
